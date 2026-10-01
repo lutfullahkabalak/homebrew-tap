@@ -1,6 +1,6 @@
 cask "prayer-times" do
-  version "1.0.2"
-  sha256 "d8d8582fa1193667cf73ca24d2f10e03035187fc01092c7ea659718a3d2eade8"
+  version "1.0.3"
+  sha256 "03cb5eb0595ef3cdffd7e9737a727a4318304e375982489214db39b15580ee37"
 
   url "https://github.com/lutfullahkabalak/prayer-times-for-mac/releases/download/v#{version}/PrayerTimes-#{version}.zip"
   name "Prayer Times"
